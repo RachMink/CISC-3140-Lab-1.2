@@ -1,4 +1,4 @@
-Lab1.2
+###Get used to git tutorial
 
 <img width="571" alt="Screen Shot 2021-07-14 at 3 26 02 PM" src="https://user-images.githubusercontent.com/82296790/125681035-028804b4-c020-41b0-8b94-16ef436fd646.png">
 
